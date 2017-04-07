@@ -5,3 +5,4 @@ TPSurgery is an interactive surgery assist system that helps showing information
 
 TPSurgery has won the silver A Design Award in 2016, exhibited in Dubai Design Week and published on the HCI International 2017 as a poster.
 
+Video Link: https://vimeo.com/161741708
